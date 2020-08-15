@@ -63,7 +63,7 @@ if __name__ == "__main__":
                     break
             sheet.to_csv(str(participant + str(indexToSession[row[0]])))
     # print(sheet)
-    ## TODO: push to github and share link
+    ## TODO: push to github and share link ** HALF DONE **
     ## TODO: create a way to save this systematically
     ## TODO: decide if we need to do the close times first, or at the same time
     ## TODO: debug why sometimes a new column isnt being added.
