@@ -2,3 +2,4 @@
 *.xlsx
 *.docx
 /wellness_transcription/
+/wellness_aws_transcripts_csv/
